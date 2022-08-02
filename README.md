@@ -13,7 +13,7 @@ Although rural cities have the lowest total amount of rides, drivers, and fares,
 
 Still, urban cities brought in the highest total fares, suburban cities brought in the second highest total fares, and rural cities brought in the lowest total fares in comparison. The attached multiple-line chart shows this relationship.
 
-<img src="/Deskstop/Vandy/ClassRepo/PyBer_Analysis/analysis/PyBer_fare_summary.png">
+<img src="user/saradandrew@SarasMbA/Deskstop/Vandy/ClassRepo/PyBer_Analysis/analysis/PyBer_fare_summary.png">
 
 # Summary
 To summarize the findings of the analysis and address the disparities between city types, I have three business recommendations for Pyber:
